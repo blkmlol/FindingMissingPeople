@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map.qml</file>
+        <file>marker.png</file>
+        <file>marker2.png</file>
+        <file>marker.qml</file>
+        <file>dynamicMarkerCreation.js</file>
+        <file>markerDrone.qml</file>
+        <file>markerGreen.png</file>
+    </qresource>
+</RCC>

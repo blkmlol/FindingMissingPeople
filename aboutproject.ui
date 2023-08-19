@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AboutProject</class>
+ <widget class="QWidget" name="AboutProject">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>О проекте</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>-20</y>
+     <width>751</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Комплексная система по установлению местонахождения пропавших людей при выполнении поисково-спасательных работ</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="exitButton">
+   <property name="geometry">
+    <rect>
+     <x>700</x>
+     <y>560</y>
+     <width>93</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Назад</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>781</width>
+     <height>541</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:700;&quot;&gt;Краткое описание&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Приложение &amp;quot;Поиск и спасение&amp;quot; разработано для облегчения работы поисково-спасательных отрядов и помощи в быстром и эффективном поиске пропавших людей. Мы предлагаем использовать различные технологии, такие как GPS-навигация, карты, дроны и т.д., чтобы обеспечить максимальную точность и скорость работы поисково-спасательных операций.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:700;&quot;&gt;Ключевые функции и возможности&lt;/span&gt;&lt;/p&gt;&lt;p&gt;• Определение местоположения пользователя с помощью GPS-навигации.&lt;/p&gt;&lt;p&gt;• Обработка данных с датчиков и сенсоров, установленных на поисковых устройствах.&lt;/p&gt;&lt;p&gt;• Обработка изображений с помощью компьютерного зрения для распознавания лиц или объектов.&lt;/p&gt;&lt;p&gt;• Информация о прошедшем полёте сохраняется в каталоге приложения.&lt;/p&gt;&lt;p&gt;• Взаимодействие с картами и навигационными сервисами, например, для построения маршрутов и отображения местности на экране.&lt;/p&gt;&lt;p&gt;• Обработка данных с дронов, если они используются в поисковых операциях.&lt;/p&gt;&lt;p&gt;• Создание интерфейса пользователя, который позволяет управлять различными функциями приложения.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:700;&quot;&gt;Контактная информация&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Руководитель проекта: Усманов А. С.&lt;/p&gt;&lt;p&gt;Члены команды: Усманов А. С., Лебедев Г. И., Сафронов Д. А.&lt;/p&gt;&lt;p&gt;Если у вас возникли вопросы или предложения по улучшению нашего приложения, пожалуйста, свяжитесь с нами по электронной почте по адресу: aublkm@gmail.com&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
